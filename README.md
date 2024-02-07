@@ -27,7 +27,7 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 - Melhorar estilização do app
 
 ## Author
-Victor Hugo Caldeira Sartori (follow me on [Linkedin](https://www.linkedin.com/in/victor-hugo-sartori-ab5899125/)
+Victor Hugo Caldeira Sartori (follow me on [Linkedin](https://www.linkedin.com/in/victor-sartori-4425632b3/)
 
 ## License
 ```
